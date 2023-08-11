@@ -7,12 +7,7 @@
 
 
 
-## By the way here are some of my statistics 🚀
-![Sajib Bin Mamun's github stats](https://github-readme-stats.vercel.app/api?username=SajibMamun&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SajibMamun&theme=tokyonight" alt="mystreak"/>
-![Sajib Bin Mamun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajibMamun&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in Instructory with JAVA
 
 
 
