@@ -58,8 +58,8 @@
 
 ## 📬 Let's Connect!
 
-- 🌐 **Portfolio:** [Coming Soon or Replace with URL]
-- 📧 **Email:** [your-email@example.com]
+- 🌐 **Portfolio:** (http://sajibmamun.me/)
+- 📧 **Email:** (sajibmamun138@gmail.com) (sajib15-3435@diu.edu.bd)
 - 💬 **WhatsApp:** [+8801XXXXXXXXX]
 - 🔗 **LinkedIn:** [linkedin.com/in/sajibmamun](https://linkedin.com/in/sajibmamun)
 - 🧪 **ORCID iD:** [orcid.org/0000-0000-XXXX-XXXX](https://orcid.org/0000-0000-XXXX-XXXX)
