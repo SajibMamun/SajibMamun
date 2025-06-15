@@ -58,12 +58,12 @@
 
 ## 📬 Let's Connect!
 
-- 🌐 **Portfolio:** (http://sajibmamun.me/)
-- 📧 **Email:** (sajibmamun138@gmail.com) (sajib15-3435@diu.edu.bd)
-- 💬 **WhatsApp:** [+8801XXXXXXXXX]
-- 🔗 **LinkedIn:** [linkedin.com/in/sajibmamun](https://linkedin.com/in/sajibmamun)
-- 🧪 **ORCID iD:** [orcid.org/0000-0000-XXXX-XXXX](https://orcid.org/0000-0000-XXXX-XXXX)
-- 📚 **Research Profile (Google Scholar/ResearchGate):** [Add Link Here]
+- 🌐 **Portfolio:** http://sajibmamun.me/
+- 📧 **Email:** sajibmamun138@gmail.com sajib15-3435@diu.edu.bd
+- 💬 **WhatsApp:** [+8801628778041]
+- 🔗 **LinkedIn:** https://linkedin.com/in/sajibmamun
+- 🧪 **ORCID iD:** https://orcid.org/0009-0008-4230-0526
+- 📚 **Google Scholar Profile:** https://scholar.google.com/citations?user=KSPooZEAAAAJ&hl=en
 
 ---
 
@@ -74,8 +74,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajibMamun&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
----
 
-<p align="center">
-  ⚡ *“Empowering intelligence through innovation and code.”*
-</p>
