@@ -60,7 +60,7 @@
 
 - 🌐 **Portfolio:** http://sajibmamun.me/
 - 📧 **Email:** sajibmamun138@gmail.com sajib15-3435@diu.edu.bd
-- 💬 **WhatsApp:** [+8801628778041]
+- 💬 **WhatsApp:** +8801628778041
 - 🔗 **LinkedIn:** https://linkedin.com/in/sajibmamun
 - 🧪 **ORCID iD:** https://orcid.org/0009-0008-4230-0526
 - 📚 **Google Scholar Profile:** https://scholar.google.com/citations?user=KSPooZEAAAAJ&hl=en
