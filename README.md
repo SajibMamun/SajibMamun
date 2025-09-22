@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sajib Bin Mamun 👋</h1>
 
 <p align="center">
-  <b>Data Scientist | AI Developer | Computer Vision Specialist</b><br>
+  <b>Data Scientist | AI Developer | ML Engineer | Computer Vision Specialist</b><br>
   Passionate about building intelligent systems that transform business insights into real-world impact.
 </p>
 
